@@ -467,7 +467,7 @@ th:last-child {
   height: 400px;
   position: relative;
   text-align: center;
-  padding: 20px 0;
+  padding: 20px 0px;
   margin: auto;
   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
   overflow: hidden;
